@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{E76FEFC7-18DB-4DF1-804A-7CCE5665D6F7}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="UserSearch/Pages/Index.cshtml" Line="25" Column="9" />
+      <File FileName="UserSearch/Startup.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UserSearch" expanded="True">
+            <Node name="UserSearch" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="Index.cshtml" expanded="True" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.UserSearch PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
